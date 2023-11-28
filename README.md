@@ -1,5 +1,5 @@
 # pandas_challenge_1
-This is the repository for the Module 3 challenge.
+This is the repository for the Module 4 challenge.
 # Module 4 Challenge - Marnie Brannon
 ---------------------------------------------------------------
 This is an exercise assigned to the class to demonstrate our understanding of the concepts covered in Module 4 of AI Bootcamp.
