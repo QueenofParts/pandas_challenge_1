@@ -1,5 +1,5 @@
 # pandas_challenge_1 
-#***NOT COMPLETE - THIS IS A PLACE HOLDER***
+
 
 This is the repository for the Module 4 challenge.
 # Module 4 Challenge - Marnie Brannon
@@ -13,7 +13,7 @@ My motivation in this working on this challenge is to practice and solidify seve
 This project provides a simple interst calculator and revised (or predicted) balance for savings and CD Accounts.
 The following are some of the potential problems it solves:
 
-    •	provide quick calculations for bank employees an customers
+    •	provide quick calculations for bank employees and customers
     
     •	allowing customers to see how interest accumulates for them
     
